@@ -1,6 +1,18 @@
 .App {
   text-align: center;
 }
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Comforter+Brush&family=Irish+Grover&family=Lora&family=Poppins&display=swap');
+/* DFDFDF, 909090, 007BEC, F5F5F5, 222222 */
+.body{
+  /* background: url('../src/Images/background.jpg') no-repeat ;
+  background-size: cover; */
+  /* font-family: 'Architects Daughter', cursive; */
+  /* font-family: 'Comforter Brush', cursive;  heading */
+  /* font-family: 'Irish Grover', cursive; */
+  font-family: 'Poppins', sans-serif;
+  background: #222222;
+  color: #DFDFDF;
+}
 
 .App-logo {
   height: 40vmin;

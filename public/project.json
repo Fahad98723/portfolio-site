@@ -1,0 +1,115 @@
+[{
+    "name":"Triangle Bike Shop",
+    "id" : "1",
+    "img":"https://i.ibb.co/N6KmQkz/Triangle-Bike-Sh.png",
+    "about":"This project is about a bike shop company. where you can purchase any type of bike you want. To ride your favourite bike, visit the site and give your reviews in the review form.",
+    "live":"https://triangle-bike-shop.web.app/",
+    "client_site":"https://github.com/Fahad98723/bike-shop-client-site",
+    "server_site":"https://github.com/Fahad98723/triangle-travel-server-site",
+    "details" : [
+        {
+            "technologies" : [
+                "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form", "Express"
+            ]
+        },
+        {"desc" : "In this project, you can book some hiking travel destinations. But before you log in, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."},
+        {"images" : [
+            "https://i.ibb.co/BrTnNSb/resized-image-Promo.jpg?fbclid=IwAR2EcgpIUshNl-qv1YJhAWZWhlfd5e3mIpo2kCNaRcZl9C8UftWiODbCjOQ",
+            "https://i.ibb.co/YQ94zMJ/resized-image-Promo-1.jpg?fbclid=IwAR33lIFyoAC51WYUPRnzMvZtfTsxsOGdqWfKtiv6vQUo4V_q6KiZ4K1Zdg0",
+            "https://i.ibb.co/sRxCYj1/resized-image-Promo-2.jpg?fbclid=IwAR2tOSXVgXc52cHvazfBn-iTpTk_4DcX159z8Tp1D6Fq1vZGMN0SKDj8xWk",
+            "https://i.ibb.co/2ZsQrrh/resized-image-Promo-5.jpg?fbclid=IwAR3I0H9JsexBe5ijxWMTHsg5m1ilokaDeRU5G-zspcNpOW2PjrzFUdw_X3E",
+            "https://i.ibb.co/fY7W8TX/resized-image-Promo-4.jpg?fbclid=IwAR3U1onmj4ev45lMPA1jLjYY60tCEQE6NnVoBA4L1p0s1A_Oo-firexzCP4",
+            "https://i.ibb.co/9rM97tV/resized-image-Promo-3.jpg?fbclid=IwAR3idzDsVhiEJidoka2H5MGX-OfUZEPs1KN0wNB-9QSCo5_sos0Fm78k2tU"
+        ]}
+    ]
+ },
+ {
+    "name":"Triangle Travel",
+    "id" : "2",
+    "img":"https://i.ibb.co/YPsLdDr/Triangle-Travel.png",
+    "about":"This project is about a travel guide company. Where you can book any travel destination for your holiday. They have their own traveling team or places where you can also join in with their hiking and travel by booking.",
+    "live":"https://travel-booking-site.web.app/",
+    "client_site":"https://github.com/Fahad98723/triangle-travel-client-site",
+    "server_site":"https://github.com/Fahad98723/triangle-travel-server-site",
+    "details" : [
+        {
+            "technologies" : [
+                "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form", "Express"
+            ]
+        },
+        {"desc" : "In this project, you can book some hiking travel destinations. But before you log in, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."}
+        ,
+        {"images" : [
+            "https://i.ibb.co/xft0Hj9/Triangle-Travel-1.png?fbclid=IwAR1PualoIu0G8lJhQi3AkoLNrVx2T_XioRSBzGCClGGAHczXR7y0jok45SE",
+            "https://i.ibb.co/8sgD2pV/Triangle-Travel-6.png?fbclid=IwAR3uIcl2oe4fqpZlNHPD9h-QgHC19tsIyJm3EUhP9i7yNPaeteaSkD6a4Dk",
+            "https://i.ibb.co/L6V8xcL/Triangle-Travel-4.png",
+            "https://i.ibb.co/Kwbwpw0/Triangle-Travel-5.png?fbclid=IwAR2Gkzg4MZGXWfoKPTY4cIYqs572EKCpZjmsI7BHin52eDutbaIea_ay0Cw"
+        ]}
+    ]
+  },
+ {
+    "name":"Triangle Health Care",
+    "id" : "3",
+    "img":"https://i.ibb.co/dpTXm88/Triangle-Care-Ho.png",
+    "about":"This project is about a medical center. where you can see the details of the doctor and the scene of the medical center. This project is all about doctors and medical centers.",
+    "live":"https://triangle-care-hospital.web.app/",
+    "client_site":"https://github.com/Fahad98723/triangle-care-hospital-client-site",
+    "details" : [
+        {
+            "technologies" : [
+                "React", "Firebase" , "HTML5", "CSS3"
+            ]
+        },
+        {"desc" : "In this project, you can book some hiking travel destinations. But before you log in, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."},
+        {"images" : [
+            "https://i.ibb.co/3yW8Qh7/Triangle-Care-Ho.png?fbclid=IwAR2rAlmDaBqmFNzAF_nY9eXyxOGJhI42TvhFkkXBSH4Jb5n-J54s_iCbD3M",
+            "https://i.ibb.co/Rv3dF0Q/Triangle-Care-Ho-1.png?fbclid=IwAR3zEmM7q7G5q48p1rxS2gkwl3GyceQ9uCth4zSWuybqo51_znFrE6cOPUE",
+            "https://i.ibb.co/BjgBkTH/Triangle-Care-Ho-2.png?fbclid=IwAR0Uw0kKhvrEd6rlWqYSs0lBD-r1Gbu0NepEo7O52kpkIC9shhreCJdVjeM",
+            "https://i.ibb.co/PQvsdxQ/Screenshot-8.png?fbclid=IwAR3U1onmj4ev45lMPA1jLjYY60tCEQE6NnVoBA4L1p0s1A_Oo-firexzCP4"
+        ]}
+    ]
+ },
+ {
+    "name":"Red Onion",
+    "id" : "4",
+    "img":"https://i.ibb.co/qdQks8G/React-App.png",
+    "about":"This project is about a Hotel . Where you can order theirs food items to enjoy meals, dinner and breakfast. Order booking functions are not complete yet.I am working on it.",
+    "live":"https://hot-onion-restaurant-a367b.web.app/",
+    "client_site":"https://github.com/Fahad98723/best-restaurant-site",
+    "details" : [
+        {
+                "technologies" : [
+                "React", "Firebase" , "HTML5", "CSS3"
+            ]
+        },
+        {"desc" : "In this project, you can book some hiking travel destinations. But before you log in, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."},
+        {"images" : [
+            "https://i.ibb.co/3s5msyb/React-App.png?fbclid=IwAR2NaPDQMlrfOV4UEYI4NlqEZF4-bdfxvu0xt--VhFZRaGFCjhrG9lp5ZIs",
+            "https://i.ibb.co/XFLzj68/React-App-1.png?fbclid=IwAR2FUD0mahECWMjnjsXHMt4S0wr3YUsTTb4w4Bd0zZfhMTHz55R1JsCnJc8",
+            "https://i.ibb.co/J5pdTGR/Screenshot-10.png?fbclid=IwAR1r5fASV1EeSn5h7P1hDt8C6HYwVgLkx4mvaeS-ecgez6ApxobqC-dfhm4",
+            "https://i.ibb.co/KWTfmdJ/Screenshot-9.png?fbclid=IwAR3AwSUtghjTvUJiNzMKVKNDhw4bz3jy0wXzQhnuKvehkmC-_UjFqagtEEU"
+        ]}
+    ]
+ },
+ {
+    "name":"Triangle Learning Center",
+    "id" : "5",
+    "img":"https://i.ibb.co/605sV6K/Triangle-Learnin-1.png",
+    "about":"This project based on childrens learning center. You can see details of their teachers and their courses . Courses enroll function are not ready yet. I am working on it",
+    "live":"https://trusting-dubinsky-16e05c.netlify.app/",
+    "client_site":"https://github.com/Fahad98723/triangle-learning-center",
+    "details" : [
+        {   "technologies" : [
+            "React", "Firebase" , "HTML5", "CSS3"
+            ]
+        },
+        {"desc" : "In this project, you can book some hiking travel destinations. But before you log in, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."},
+        {"images" : [
+            "https://i.ibb.co/7k8fz79/Triangle-Learnin.png?fbclid=IwAR2H3n_AwFofHDZyfWyngnx9ZQ47W8EsGkoRADmvmCXlefRpYuBOwEXv7NY",
+            "https://i.ibb.co/vhwLpNX/Triangle-Learnin-1.png?fbclid=IwAR2NaPDQMlrfOV4UEYI4NlqEZF4-bdfxvu0xt--VhFZRaGFCjhrG9lp5ZIs",
+            "https://i.ibb.co/n6XdQTZ/Triangle-Learnin-2.png?fbclid=IwAR2kELMoQI3buvTbL-AGzIwGLTZHHMTxheC7Q2bZAFP4x11ZJC7JMSajb4E",
+            "https://i.ibb.co/jWQjZ2p/Triangle-Learnin-3.png?fbclid=IwAR3gwG4_AN7FuI53dTTdMPDn1bEsOjH0ebgEvYeBzgHzhTU_JKyQhNrD-dQ"
+        ]}
+    ]
+ }
+]

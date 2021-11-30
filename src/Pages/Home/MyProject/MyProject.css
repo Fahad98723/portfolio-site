@@ -1,0 +1,14 @@
+.project img:hover {
+    transform: scale(1.1);
+    box-sizing: border-box;
+    /* transition: 3s; */
+}
+.project img{
+    border-radius: 10px;
+    transition: 3s;
+}
+.title {
+    color: #007BEC;
+    font-family: 'Lora', serif; 
+    font-size: 35px;
+}

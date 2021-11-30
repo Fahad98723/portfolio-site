@@ -1,0 +1,20 @@
+
+.image img{
+    height: 400px;
+    width: 400px;
+    border: 20px solid #909090;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+.btn {
+    background: #ff014f;
+    color: white;
+}
+.details h1 {
+    color : #007BEC !important;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+    
+    /* font-family: 'Architects Daughter', cursive; */
+    /* font-family: 'Irish Grover', cursive; */
+}
