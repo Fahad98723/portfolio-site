@@ -6,6 +6,7 @@
 .project img{
     border-radius: 10px;
     transition: 3s;
+    overflow: hidden;
 }
 .title {
     color: #007BEC;

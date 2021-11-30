@@ -22,10 +22,10 @@ const Project = () => {
                 <h3>Project Details </h3>
             </div>
             <Row>
-                <Col lg='5'>
+                <Col className='mb-5' data-aos="fade-right" lg='5'>
                     <ProjectCarousel projectDetails={projectDetails}></ProjectCarousel>
                 </Col>
-                <Col lg='6'>
+                <Col data-aos="fade-left" lg='6'>
                     <h1 className='title'>{projectDetails?.name}</h1>
                     <p>{projectDetails?.details[1]?.desc}</p>
                     {

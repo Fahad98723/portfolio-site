@@ -17,8 +17,8 @@ const Contact = () => {
   };
     return (
         <Container id='contact' className='py-5'>
-            <Row className='align-items-center'>
-            <Col lg='7'>
+            <Row className='align-items-center g-5 '>
+            <Col data-aos="fade-right" lg='7'>
                 <div className="heading text-center mb-5">
                     <h1>Contact With Me</h1>
                 </div>
@@ -31,7 +31,7 @@ const Contact = () => {
                 </form>
                 </div>
             </Col>
-            <Col lg='5'>
+            <Col data-aos="fade-left" lg='5'>
             <div className='d-flex align-items-center mb-1'>
                             <div className="icon me-3">
                             <i className="fas fa-home fs-3 text-primary"></i>

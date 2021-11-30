@@ -12,6 +12,8 @@
   font-family: 'Poppins', sans-serif;
   background: #222222;
   color: #DFDFDF;
+  width: 100%;
+  overflow: hidden;
 }
 
 .App-logo {
