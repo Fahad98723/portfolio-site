@@ -52,12 +52,12 @@ const MyProject = () => {
     return (
         <Container className='py-5'>
             <div className="heading mb-5">
-                <h1>My Projects</h1>
+                <h1 className='fw-bold'>My Best Projects</h1>
             </div>
             <Row>
                 {
                     projects.map(project => 
-                        <Col lg='4' md='6' className='mb-4'  >
+                        <Col data-aos="fade-left" lg='4' md='6' className='mb-4'  >
                             {/* <div
                              style={{background : `url(${project.img}), linear-gradient(#3A4256,#3A4256)` , backgroundRepeat: 'no-repeat', backgroundSize : 'contained', backgroundBlendMode: 'overlay',
                              height : '500px', width : '100%'}}>
@@ -68,7 +68,7 @@ const MyProject = () => {
                              <div>
                              <h3 className='title fw-bold'>{project.name}</h3>
                           <p>{project.about}</p>
-                          <a href={project.live} className="m-1 fs-6 btn fw-semi-bold me-3"> <i className="me-2 fs-5 fab fa-firefox-browser"></i>Live Site</a>
+                          <a target='blank' href={project.live} className="m-1 fs-6 btn fw-semi-bold me-3"> <i className="me-2 fs-5 fab fa-firefox-browser"></i>Live Site</a>
                           <Link to={`/project/${project.id}`} className="m-1 fs-6 btn fw-semi-bold  "> <i className="me-2 fs-5 fas fa-info-circle"></i>Details</Link>
                              </div>
                         </div>

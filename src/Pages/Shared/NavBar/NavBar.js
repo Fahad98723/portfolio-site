@@ -12,7 +12,9 @@ const NavBar = () => {
              <Navbar.Collapse className="justify-content-end menu">
                  <Nav.Link as={Link} to="/home">Home</Nav.Link>
                  <Nav.Link as={HashLink} to="/home#about">About</Nav.Link>
+                 <Nav.Link as={Link} to="/blog">Blog</Nav.Link>
                  <Nav.Link as={HashLink} to="/home#contact">Contact</Nav.Link>
+                 
                 
             <Navbar.Text>
     

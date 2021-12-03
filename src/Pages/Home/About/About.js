@@ -15,15 +15,15 @@ const About = () => {
                 </Col>
                 <Col  lg='6'>
                     <div >
-                    <div className="heading mb-5">
+                    <div className="heading mb-3">
                         <h3>About Me</h3>
-                        <h1 className='fw-bolder' style={{fontFamily: `'Comforter Brush', cursive` ,color :'#007BEC', fontSize : '45px'}}>Front End  Developer & Web Designer</h1>
+                        <h1 className='fw-bolder'>Front End  Developer & Web Designer</h1>
                     </div>
                     <div data-aos="fade-up-left" data-aos-delay="50"
         data-aos-duration="2000"
         data-aos-easing="ease-in-out-cubic" className="details">
                         <p>I'm a front-end web developer.Having the skills and training made me confident enough to call myself a Junior front-end web developer/Junior web developer. Ready to take on challenges and responsibility to grow as a full-fledged web developer. Recently, I graduated from the Complete Web Development with Jhankar Mahbub by Programming Hero. I am passionate about coding and solving problems through code, and I am excited to work alongside other amazing programmers and learn so much more!</p>
-                        <a className='btn' href="https://www.linkedin.com/in/kazi-mohammad-fahad-kibira-22bbba226/">Contact Me</a>
+                        <a className='btn  fs-5' href="https://www.linkedin.com/in/kazi-mohammad-fahad-kibira-22bbba226/">Contact Me</a>
                     </div>
                     </div>
                 </Col>

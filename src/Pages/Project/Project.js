@@ -16,26 +16,26 @@ const Project = () => {
     console.log(project);
     return (
         <>
-        <NavBar></NavBar>
         <Container className='py-5'>
             <div className="heading mb-5">
-                <h3>Project Details </h3>
+                <h1>Project Details</h1>
             </div>
             <Row>
                 <Col className='mb-5' data-aos="fade-right" lg='5'>
                     <ProjectCarousel projectDetails={projectDetails}></ProjectCarousel>
                 </Col>
                 <Col data-aos="fade-left" lg='6'>
-                    <h1 className='title'>{projectDetails?.name}</h1>
+                    <h1 className='title' style={{color : '#DFDFDF'}}>{projectDetails?.name}</h1>
+                    <hr className='w-75' style={{height:'5px'}} />
                     <p>{projectDetails?.details[1]?.desc}</p>
                     {
                         projectDetails?.details[0]?.technologies?.map(t => <button style={{background : '#007BEC', fontSize:'14px'}} className='m-1 btn fw-bold '>{t}</button>)
                     }
                     <div className="details-button mt-3">
-                        <a href={projectDetails?.live} className="m-1 fs-5 btn"><i className="me-2 fs-4 fab fa-firefox-browser"></i>Live Site</a>
-                        <a href={projectDetails?.client_site} className="m-1 fs-5 btn fw-semi-bold"><i className=" me-2 fs-4 fab fa-github"></i>Client Code</a>
+                        <a target='blank' href={projectDetails?.live} className="m-1 fs-5 btn"><i className="me-2 fs-4 fab fa-firefox-browser"></i>Live Site</a>
+                        <a target='blank' href={projectDetails?.client_site} className="m-1 fs-5 btn fw-semi-bold"><i className=" me-2 fs-4 fab fa-github"></i>Client Code</a>
                         {
-                            projectDetails?.server_site ? <button className="m-1 fs-5 btn fw-semi-bold"><i className=" me-2 fs-4 fab fa-github"></i>Server Code</button> : ''
+                            projectDetails?.server_site ? <a  target='blank' href ={projectDetails?.server_site}className="m-1 fs-5 btn fw-semi-bold"><i className=" me-2 fs-4 fab fa-github"></i>Server Code</a> : ''
                         }
                     </div>
                 </Col>

@@ -1,7 +1,7 @@
 .App {
   text-align: center;
 }
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Comforter+Brush&family=Irish+Grover&family=Lora&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Fruktur&family=Griffy&family=Irish+Grover&family=Lora&family=Poppins&display=swap');
 /* DFDFDF, 909090, 007BEC, F5F5F5, 222222 */
 .body{
   /* background: url('../src/Images/background.jpg') no-repeat ;
@@ -15,38 +15,16 @@
   width: 100%;
   overflow: hidden;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.heading h3 {
+  font-size: 30px;
+  
+  font-family: 'Architects Daughter', cursive;
+}
+.heading h1 {
+  font-family: 'Poppins',
+   sans-serif ;
+   color :#007BEC;
+    font-size : 40px
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

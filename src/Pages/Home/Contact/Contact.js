@@ -19,8 +19,8 @@ const Contact = () => {
         <Container id='contact' className='py-5'>
             <Row className='align-items-center g-5 '>
             <Col data-aos="fade-right" lg='7'>
-                <div className="heading text-center mb-5">
-                    <h1>Contact With Me</h1>
+                <div className="heading mb-5">
+                    <h1 className='fw-bold'>Contact With Me</h1>
                 </div>
                 <div className="">
                 <form className='' ref={form} onSubmit={sendEmail}>
@@ -55,7 +55,7 @@ const Contact = () => {
                             <i class="far fa-envelope fs-3 text-primary"></i>
                             </div>
                             <div className="details">
-                            <h5>md.ravi63@gmail.com</h5>
+                            <h5>kazimohammadfahad@gmail.com</h5>
                             <p>Send us your query anytime!</p>
                             </div>
                         </div>

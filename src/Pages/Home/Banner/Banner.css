@@ -12,9 +12,16 @@
 }
 .details h1 {
     color : #007BEC !important;
-    font-family: 'Comforter Brush', cursive;
-    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
     
     /* font-family: 'Architects Daughter', cursive; */
     /* font-family: 'Irish Grover', cursive; */
+}
+
+.social .fab{
+    color: #007BEC;  
+}
+.social .fas{
+    color: #007BEC;  
 }
