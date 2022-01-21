@@ -25,7 +25,7 @@ const Project = () => {
                     <ProjectCarousel projectDetails={projectDetails}></ProjectCarousel>
                 </Col>
                 <Col data-aos="fade-left" lg='6'>
-                    <h1 className='title' style={{color : '#DFDFDF'}}>{projectDetails?.name}</h1>
+                    <h1 className='title' style={{color : '#00bcd4'}}>{projectDetails?.name}</h1>
                     <hr className='w-75' style={{height:'5px'}} />
                     <p>{projectDetails?.details[1]?.desc}</p>
                     {

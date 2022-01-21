@@ -10,20 +10,20 @@
   /* font-family: 'Comforter Brush', cursive;  heading */
   /* font-family: 'Irish Grover', cursive; */
   font-family: 'Poppins', sans-serif;
-  background: #222222;
+  background: #1a1a1d;
   color: #DFDFDF;
   width: 100%;
   overflow: hidden;
 }
 .heading h3 {
   font-size: 30px;
-  
   font-family: 'Architects Daughter', cursive;
 }
 .heading h1 {
   font-family: 'Poppins',
    sans-serif ;
-   color :#007BEC;
+   /* color :#007BEC; */
+   color :#00bcd4;
     font-size : 40px
 }
 

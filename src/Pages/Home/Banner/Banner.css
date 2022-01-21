@@ -2,16 +2,23 @@
 .image img{
     height: 400px;
     width: 400px;
-    border: 20px solid #909090;
+    border: 20px solid white;
     border-radius: 50%;
     box-sizing: border-box;
+    transition: 3s;
+    z-index: 1001;
 }
+/* .image img:hover{
+    transform: scale(0.9);
+    cursor: pointer;
+} */
 .btn {
-    background: #ff014f;
+    background: #c3073f;
     color: white;
+    font-weight: 900;
 }
 .details h1 {
-    color : #007BEC !important;
+    color : white !important;
     font-family: 'Poppins', sans-serif;
     font-size: 45px;
     
@@ -19,9 +26,9 @@
     /* font-family: 'Irish Grover', cursive; */
 }
 
-.social .fab{
+/* .social .fab{
     color: #007BEC;  
 }
 .social .fas{
     color: #007BEC;  
-}
+} */

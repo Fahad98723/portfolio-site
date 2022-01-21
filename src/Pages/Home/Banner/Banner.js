@@ -1,6 +1,7 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import image from '../../../Images/IMGL8786.jpg'
+// import image from '../../../Images/IMGL8786.jpg'
+import image from '../../../Images/IMG_20220114_211251-01.jpeg'
 import './Banner.css'
 const Banner = () => {
     return (
@@ -14,16 +15,18 @@ const Banner = () => {
                             
                             <a  href='https://drive.google.com/uc?export=download&id=1Cz5--O4XeMujxHfempYcLEWX2SR6eAhg' className="btn fs-5 ">Download Resume</a>
                             <div className='mt-3'>
-                            <a target='blank' href='https://github.com/Fahad98723' className="social"><i className=" me-2 fs-1 fab fa-github-square"></i></a>
-                            <a target='blank' href='https://www.linkedin.com/in/kazi-fahad-221a91211/' className="social"><i className=" me-2 fs-1 fab fa-linkedin"></i></a>
-                            <a target='blank' href='https://twitter.com/Mdravi88' className="social"><i className=" me-2 fs-1 fab fa-twitter-square"></i></a>
-                            <a target='blank' href='https://www.facebook.com/profile.php?id=100007037043156' className="social"><i className=" me-2 fs-1 fab fa-facebook-square"></i></a>
+                            
+                            <a target='blank' href='https://www.linkedin.com/in/kazi-fahad-221a91211/' className="social"><i style={{ color: '#007bb6' }} className=" me-2 fs-1 fab fa-linkedin"></i></a>
+                            <a target='blank' href='https://twitter.com/Mdravi88' className="social"><i style={{ color: '#00aced' }} className=" me-2 fs-1 fab fa-twitter-square"></i></a>
+                            <a target='blank' href='https://github.com/Fahad98723' className="social"><i style={{ color: '#f0f6fc' }} className=" me-2 fs-1 fab fa-github-square"></i></a>
+                            <a target='blank' href='https://www.facebook.com/profile.php?id=100007037043156' className="social"><i style={{ color: '#0f90f3' }} className=" me-2 fs-1 fab fa-facebook-square"></i></a>
                             </div>                           
                             </div>
                     </Col>
                     <Col lg='5'>
                     <div className="image">
-                            <img style={{filter: 'grayscale(1)'}} className='img-fluid' src={image} alt="" />
+                    {/* style={{filter: 'grayscale(1)'}} */}
+                            <img  className='img-fluid' src={image} alt="" />
                         </div>
                     </Col>
                 </Row>

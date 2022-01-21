@@ -1,8 +1,8 @@
 .navigation{
-    background: #222222;
+    background: #1a1a1d;;
 }
 .navigation a {
-    color: #007BEC;
+    color: white;
 }
 .logo{
     font-family: 'Irish Grover', cursive;
@@ -13,5 +13,5 @@
     font-weight: 700;
 }
 .menu a:hover {
-    color: #ff014f;
+    color: #0d6efd;
 }

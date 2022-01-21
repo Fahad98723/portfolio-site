@@ -9,7 +9,7 @@
     "details" : [
         {
             "technologies" : [
-                "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form", "Express"
+                "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
             ]
         },
         {"desc" : "In this project, you can purchase any type of bike you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. For purchasing a bike, you have to set your address, zip code, and phone number on the purchase form. In your dashboard You can see your purchase or booking list in my orders. If you become an admin, you will see other things in your dashboard. Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form, and the swiper slider for the slider in the testimonial section."},
@@ -35,7 +35,7 @@
     "details" : [
         {
             "technologies" : [
-                "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form", "Express"
+                "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
             ]
         },
         {"desc" : "In this project, you can book some hiking travel destinations. But before you booking, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."}
@@ -58,13 +58,13 @@
     "details" : [
         {
             "technologies" : [
-                "React", "Firebase" , "HTML5", "CSS3"
+                "React", "Firebase" ,"React Router", "HTML5", "CSS3"
             ]
         },
         {"desc" : "In this project you can see the doctors details and their fee . You can contact with them by using contact form, number and emails . And last if you need emergency ambulance you can contact with them for bookinng.The framework which has been used in this site is react-bootstrap it's made by react,bootstrap and raw css."},
         {"images" : [
-            "https://i.ibb.co/3yW8Qh7/Triangle-Care-Ho.png?fbclid=IwAR2rAlmDaBqmFNzAF_nY9eXyxOGJhI42TvhFkkXBSH4Jb5n-J54s_iCbD3M",
-            "https://i.ibb.co/Rv3dF0Q/Triangle-Care-Ho-1.png?fbclid=IwAR3zEmM7q7G5q48p1rxS2gkwl3GyceQ9uCth4zSWuybqo51_znFrE6cOPUE",
+            "https://i.ibb.co/YPs4yWH/Screenshot-1.png?fbclid=IwAR1rHefqHdXYYdNrXvmu2E1o7Ot4dXdqUq1rEE3O909TwdtCJmwLzmm2Zpg",
+            "https://i.ibb.co/2kkzxgt/Screenshot-3.png?fbclid=IwAR0-z73E0F5CCJAVed0H8k0AJ29Pkf1jzZvQn6Md936tdnvFuWIXpa_hXtQ",
             "https://i.ibb.co/BjgBkTH/Triangle-Care-Ho-2.png?fbclid=IwAR0Uw0kKhvrEd6rlWqYSs0lBD-r1Gbu0NepEo7O52kpkIC9shhreCJdVjeM",
             "https://i.ibb.co/PQvsdxQ/Screenshot-8.png?fbclid=IwAR3U1onmj4ev45lMPA1jLjYY60tCEQE6NnVoBA4L1p0s1A_Oo-firexzCP4"
         ]}
@@ -80,7 +80,7 @@
     "details" : [
         {
                 "technologies" : [
-                "React", "Firebase", "HTML5", "CSS3"
+                "React", "Firebase", "HTML5","React Router", "CSS3"
             ]
         },
         {"desc" : "In this project, you can order your favourite foods. But before you order, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS.We use firebase for authentication"},
@@ -101,7 +101,7 @@
     "client_site":"https://github.com/Fahad98723/triangle-learning-center",
     "details" : [
         {   "technologies" : [
-            "React", "Firebase" , "HTML5", "CSS3"
+            "React", "Firebase" , "HTML5", "React Router", "CSS3"
             ]
         },
         {"desc" : "In this project, you can see details about the teachers. We used some course for online teaching. I will add enroll from for course enrolling , Now I'm working on it you will get update soon about this . I'm planning too add so many features on this ."},
