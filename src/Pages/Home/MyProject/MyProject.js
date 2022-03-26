@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import Card from './Card';
+import CardModal from './CardModal';
 import './MyProject.css'
 // const projects = [
 //     {
@@ -43,26 +45,43 @@ import './MyProject.css'
 //     }
 // ]
 const MyProject = () => {
+    const [modalShow, setModalShow] = useState(false);
     const [projects, setProjects] = useState([])
     useEffect(() => {
         fetch('./project.json')
         .then(res => res.json())
         .then(data => setProjects(data)) 
     },[])
+
+    // <Button variant="primary" onClick={() => setModalShow(true)}>
+    //     Launch vertically centered modal
+    //   </Button>
+
+  
+
     return (
-        <Container className='py-5'>
+        <>
+        <Container className='p-5'>
             <div className="heading mb-5">
                 <h1 className='fw-bold'>My Best Projects</h1>
             </div>
-            <Row>
+            
+            <Card setModalShow={setModalShow} projects={projects}></Card>
+        </Container>
+        <CardModal show={modalShow}
+        onHide={() => setModalShow(false)} ></CardModal>
+        </>
+        
+    );
+};
+
+export default MyProject;
+
+{/* <Row>
                 {
                     projects.map(project => 
                         <Col data-aos="fade-left" lg='4' md='6' className='mb-4'  >
-                            {/* <div
-                             style={{background : `url(${project.img}), linear-gradient(#3A4256,#3A4256)` , backgroundRepeat: 'no-repeat', backgroundSize : 'contained', backgroundBlendMode: 'overlay',
-                             height : '500px', width : '100%'}}>
-                                
-                             </div> */}
+                            
                              <div  className='project p-3 ' style={{ boxShadow: '#909090 0px 5px 10px' , borderRadius:'10px', overflow: 'hidden'}}>
                              <img className='img-fluid mb-4 project-image' src={project.img} alt="" /> 
                              <div>
@@ -75,9 +94,10 @@ const MyProject = () => {
                             
                         </Col>)
                 }
-            </Row>
-        </Container>
-    );
-};
+            </Row> */}
 
-export default MyProject;
+            {/* <div
+                             style={{background : `url(${project.img}), linear-gradient(#3A4256,#3A4256)` , backgroundRepeat: 'no-repeat', backgroundSize : 'contained', backgroundBlendMode: 'overlay',
+                             height : '500px', width : '100%'}}>
+                                
+                             </div> */}

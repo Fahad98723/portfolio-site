@@ -16,7 +16,7 @@ const Project = () => {
     console.log(project);
     return (
         <>
-        <Container className='py-5'>
+        <Container className='py-5' style={{height:'90vh'}}>
             <div className="heading mb-5">
                 <h1>Project Details</h1>
             </div>

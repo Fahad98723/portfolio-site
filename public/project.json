@@ -1,6 +1,34 @@
 [{
-    "name":"Triangle E-Commerce",
+    "name":"Pro Player",
     "id" : "1",
+    "img":"https://i.ibb.co/TtL8DDn/Screenshot-16.png",
+    "about":"This project is about a Video Blog sharing site. where you can share your gaming tips with video. To find tips for games, visit the site Thank You.",
+    "live":"https://pro-player.vercel.app/",
+    "client_site":"https://github.com/Fahad98723/Tiangle-ecommerce-shop",
+    "server_site":"https://github.com/Fahad98723/triangle-ecommerce-server-site",
+    "details" : [
+        {
+            "technologies" : [
+                "React", "Firebase" , "Material UI", "Redux", "HTML5", "CSS3", "Typescript", "Strem Chat" , "MongoDB", "React Hook Form","React Router", "Express"
+            ]
+        },
+        {"desc" : "In this project, you can upload gaming tips blogs with video if you want. But before you upload anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can upload any blog with video . You can like any blog, follow any blogger and comment on any blogs. You can donate any user by card. Your blogs and content you can see your uploaded blogs. In Following you can see you following users all blog.  All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is Material UI. It's made by Material ui and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form."},
+        {"images" : [
+            "https://i.ibb.co/NV9yHCR/Screenshot-17.png",
+            "https://i.ibb.co/tZMLCG0/Screenshot-18.png",
+            "https://i.ibb.co/KDMNR8q/Screenshot-19.png",
+            "https://i.ibb.co/XbtQ554/Screenshot-20.png",
+            "https://i.ibb.co/C7nBW6V/Screenshot-21.png",
+            "https://i.ibb.co/gW58TVL/Screenshot-22.png",
+            "https://i.ibb.co/DrQVWjJ/Screenshot-23.png",
+            "https://i.ibb.co/rkH3F56/Screenshot-24.png",
+            "https://i.ibb.co/prpVZqg/Screenshot-25.png"
+        ]}
+    ]
+ },
+{
+    "name":"Triangle E-Commerce",
+    "id" : "2",
     "img":"https://i.ibb.co/7XMJS0r/mockup-6.png",
     "about":"This project is about a e-commerce shop. where you can purchase any type of clothes you want. To grab your favourite cloth, visit the site Thank You.",
     "live":"https://triangle-ecommerce-shop.web.app/",
@@ -25,7 +53,7 @@
  },
 {
     "name":"Travel Guro",
-    "id" : "2",
+    "id" : "3",
     "img":"https://i.ibb.co/JBGnJdW/Screenshot-502.png",
     "about":"This project is about a Blog sharing site. where you can share your travel experience writing the blogs in the site.",
     "live":"https://travel-lif.web.app/",
@@ -37,7 +65,7 @@
                 "React", "Firebase" , "Material UI", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
             ]
         },
-        {"desc" : "In this project, you can upload travel blogs you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can edit the project which you have been uploaded . All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form."},
+        {"desc" : "In this project, you can upload travel blogs you want. But before you can upload or read blog on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can edit the project which you have been uploaded . All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form."},
         {"images" : [
             "https://i.ibb.co/WkKkgK4/Screenshot-503.png",
             "https://i.ibb.co/j3rkbzz/Screenshot-504.png",
@@ -49,7 +77,7 @@
  },
 {
     "name":"Triangle Bike Shop",
-    "id" : "3",
+    "id" : "4",
     "img":"https://i.ibb.co/fXhbk5g/mockup-5.png",
     "about":"This project is about a bike shop company. where you can purchase any type of bike you want. To ride your favourite bike, visit the site and give your reviews in the review form.",
     "live":"https://triangle-bike-shop.web.app/",
@@ -74,7 +102,7 @@
  },
  {
     "name":"Triangle Travel",
-    "id" : "4",
+    "id" : "5",
     
     "img":"https://i.ibb.co/hCfL4vB/mockup-1.png",
     "about":"This project is about a travel guide company. Where you can book any travel destination for your holiday. They have their own traveling team or places where you can also join in with their hiking and travel by booking.",
@@ -96,49 +124,5 @@
             "https://i.ibb.co/Kwbwpw0/Triangle-Travel-5.png?fbclid=IwAR2Gkzg4MZGXWfoKPTY4cIYqs572EKCpZjmsI7BHin52eDutbaIea_ay0Cw"
         ]}
     ]
-  },
- {
-    "name":"Triangle Health Care",
-    "id" : "5",
-    "img":"https://i.ibb.co/5FWSLXZ/mockup-2.png",
-    "about":"This project is about a medical center. where you can see the details of the doctor and the scene of the medical center. This project is all about doctors and medical centers.",
-    "live":"https://triangle-care-hospital.web.app/",
-    "client_site":"https://github.com/Fahad98723/triangle-care-hospital-client-site",
-    "details" : [
-        {
-            "technologies" : [
-                "React", "Firebase" ,"React Router", "HTML5", "CSS3"
-            ]
-        },
-        {"desc" : "In this project you can see the doctors details and their fee . You can contact with them by using contact form, number and emails . And last if you need emergency ambulance you can contact with them for bookinng.The framework which has been used in this site is react-bootstrap it's made by react,bootstrap and raw css."},
-        {"images" : [
-            "https://i.ibb.co/YPs4yWH/Screenshot-1.png?fbclid=IwAR1rHefqHdXYYdNrXvmu2E1o7Ot4dXdqUq1rEE3O909TwdtCJmwLzmm2Zpg",
-            "https://i.ibb.co/2kkzxgt/Screenshot-3.png?fbclid=IwAR0-z73E0F5CCJAVed0H8k0AJ29Pkf1jzZvQn6Md936tdnvFuWIXpa_hXtQ",
-            "https://i.ibb.co/BjgBkTH/Triangle-Care-Ho-2.png?fbclid=IwAR0Uw0kKhvrEd6rlWqYSs0lBD-r1Gbu0NepEo7O52kpkIC9shhreCJdVjeM",
-            "https://i.ibb.co/PQvsdxQ/Screenshot-8.png?fbclid=IwAR3U1onmj4ev45lMPA1jLjYY60tCEQE6NnVoBA4L1p0s1A_Oo-firexzCP4"
-        ]}
-    ]
- },
- {
-    "name":"Red Onion",
-    "id" : "6",
-    "img":"https://i.ibb.co/MBB6NvN/mockup-3.png",
-    "about":"This project is about a Hotel . Where you can order theirs food items to enjoy meals, dinner and breakfast. Order booking functions are not complete yet.I am working on it.",
-    "live":"https://hot-onion-restaurant-a367b.web.app/",
-    "client_site":"https://github.com/Fahad98723/best-restaurant-site",
-    "details" : [
-        {
-                "technologies" : [
-                "React", "Firebase", "HTML5","React Router", "CSS3"
-            ]
-        },
-        {"desc" : "In this project, you can order your favourite foods. But before you order, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS.We use firebase for authentication"},
-        {"images" : [
-            "https://i.ibb.co/3s5msyb/React-App.png?fbclid=IwAR2NaPDQMlrfOV4UEYI4NlqEZF4-bdfxvu0xt--VhFZRaGFCjhrG9lp5ZIs",
-            "https://i.ibb.co/XFLzj68/React-App-1.png?fbclid=IwAR2FUD0mahECWMjnjsXHMt4S0wr3YUsTTb4w4Bd0zZfhMTHz55R1JsCnJc8",
-            "https://i.ibb.co/J5pdTGR/Screenshot-10.png?fbclid=IwAR1r5fASV1EeSn5h7P1hDt8C6HYwVgLkx4mvaeS-ecgez6ApxobqC-dfhm4",
-            "https://i.ibb.co/KWTfmdJ/Screenshot-9.png?fbclid=IwAR3AwSUtghjTvUJiNzMKVKNDhw4bz3jy0wXzQhnuKvehkmC-_UjFqagtEEU"
-        ]}
-    ]
- }
+  }
 ]
