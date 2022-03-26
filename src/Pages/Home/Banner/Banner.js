@@ -13,7 +13,7 @@ const Banner = () => {
                             <h3>Front End Developer</h3>
                             <h1 className='fw-bold'>Kazi Mohammad Fahad Kibira</h1>
                             
-                            <a  href='https://drive.google.com/uc?export=download&id=1Cz5--O4XeMujxHfempYcLEWX2SR6eAhg' className="btn fs-5 ">Download Resume</a>
+                            <a  href='https://drive.google.com/uc?export=download&id=1gxVlIaQwquVfdLFM0B5Y3kQrdtbhg4M_' className="btn fs-5 ">Download Resume</a>
                             <div className='mt-3'>
                             
                             <a target='blank' href='https://www.linkedin.com/in/kazi-fahad-221a91211/' className="social"><i style={{ color: '#007bb6' }} className=" me-2 fs-1 fab fa-linkedin"></i></a>

@@ -1,11 +1,60 @@
 [{
-    "name":"Triangle Bike Shop",
+    "name":"Triangle E-Commerce",
     "id" : "1",
+    "img":"https://i.ibb.co/7XMJS0r/mockup-6.png",
+    "about":"This project is about a e-commerce shop. where you can purchase any type of clothes you want. To grab your favourite cloth, visit the site Thank You.",
+    "live":"https://triangle-ecommerce-shop.web.app/",
+    "client_site":"https://github.com/Fahad98723/Tiangle-ecommerce-shop",
+    "server_site":"https://github.com/Fahad98723/triangle-ecommerce-server-site",
+    "details" : [
+        {
+            "technologies" : [
+                "React", "Firebase" , "Bootstrap", "Material UI", "Redux", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
+            ]
+        },
+        {"desc" : "In this project, you can purchase any type of cloth you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. For purchasing a cloth, you have to payment via card. In your dashboard You can see your purchase or booking list in my orders. If you become an admin, you will see other things in your dashboard. Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap and material ui. It's made by react-bootstrap, material ui and raw CSS. i also used MongoDB for database saving. We used React Hook form for the form, and the for payment system i used stripe ."},
+        {"images" : [
+            "https://i.ibb.co/Yy978LL/Screenshot-497.png",
+            "https://i.ibb.co/prNMFV1/Screenshot-498.png",
+            "https://i.ibb.co/LhPkXFw/Screenshot-499.png",
+            "https://i.ibb.co/Qc3d2gX/Screenshot-500.png",
+            "https://i.ibb.co/CzsxFCF/Screenshot-501.png",
+            "https://i.ibb.co/LCG1tZ1/Screenshot-496.png"
+        ]}
+    ]
+ },
+{
+    "name":"Travel Guro",
+    "id" : "2",
+    "img":"https://i.ibb.co/JBGnJdW/Screenshot-502.png",
+    "about":"This project is about a Blog sharing site. where you can share your travel experience writing the blogs in the site.",
+    "live":"https://travel-lif.web.app/",
+    "client_site":"https://github.com/Fahad98723/travel-guro-client",
+    "server_site":"https://github.com/Fahad98723/travel-guro-server",
+    "details" : [
+        {
+            "technologies" : [
+                "React", "Firebase" , "Material UI", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
+            ]
+        },
+        {"desc" : "In this project, you can upload travel blogs you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can edit the project which you have been uploaded . All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form."},
+        {"images" : [
+            "https://i.ibb.co/WkKkgK4/Screenshot-503.png",
+            "https://i.ibb.co/j3rkbzz/Screenshot-504.png",
+            "https://i.ibb.co/T47nWT1/Screenshot-505.png",
+            "https://i.ibb.co/r7ZqVKZ/Screenshot-506.png",
+            "https://i.ibb.co/5T8VBQ1/Screenshot-508.png"
+        ]}
+    ]
+ },
+{
+    "name":"Triangle Bike Shop",
+    "id" : "3",
     "img":"https://i.ibb.co/fXhbk5g/mockup-5.png",
     "about":"This project is about a bike shop company. where you can purchase any type of bike you want. To ride your favourite bike, visit the site and give your reviews in the review form.",
     "live":"https://triangle-bike-shop.web.app/",
     "client_site":"https://github.com/Fahad98723/bike-shop-client-site",
-    "server_site":"https://github.com/Fahad98723/triangle-travel-server-site",
+    "server_site":"https://github.com/Fahad98723/bike-shop-server-site",
     "details" : [
         {
             "technologies" : [
@@ -25,7 +74,7 @@
  },
  {
     "name":"Triangle Travel",
-    "id" : "2",
+    "id" : "4",
     
     "img":"https://i.ibb.co/hCfL4vB/mockup-1.png",
     "about":"This project is about a travel guide company. Where you can book any travel destination for your holiday. They have their own traveling team or places where you can also join in with their hiking and travel by booking.",
@@ -50,7 +99,7 @@
   },
  {
     "name":"Triangle Health Care",
-    "id" : "3",
+    "id" : "5",
     "img":"https://i.ibb.co/5FWSLXZ/mockup-2.png",
     "about":"This project is about a medical center. where you can see the details of the doctor and the scene of the medical center. This project is all about doctors and medical centers.",
     "live":"https://triangle-care-hospital.web.app/",
@@ -72,7 +121,7 @@
  },
  {
     "name":"Red Onion",
-    "id" : "4",
+    "id" : "6",
     "img":"https://i.ibb.co/MBB6NvN/mockup-3.png",
     "about":"This project is about a Hotel . Where you can order theirs food items to enjoy meals, dinner and breakfast. Order booking functions are not complete yet.I am working on it.",
     "live":"https://hot-onion-restaurant-a367b.web.app/",
@@ -89,27 +138,6 @@
             "https://i.ibb.co/XFLzj68/React-App-1.png?fbclid=IwAR2FUD0mahECWMjnjsXHMt4S0wr3YUsTTb4w4Bd0zZfhMTHz55R1JsCnJc8",
             "https://i.ibb.co/J5pdTGR/Screenshot-10.png?fbclid=IwAR1r5fASV1EeSn5h7P1hDt8C6HYwVgLkx4mvaeS-ecgez6ApxobqC-dfhm4",
             "https://i.ibb.co/KWTfmdJ/Screenshot-9.png?fbclid=IwAR3AwSUtghjTvUJiNzMKVKNDhw4bz3jy0wXzQhnuKvehkmC-_UjFqagtEEU"
-        ]}
-    ]
- },
- {
-    "name":"Triangle Learning Center",
-    "id" : "5",
-    "img":"https://i.ibb.co/Dzy8s6X/mockup-4.png",
-    "about":"This project based on childrens learning center. You can see details of their teachers and their courses . Courses enroll function are not ready yet. I am working on it",
-    "live":"https://trusting-dubinsky-16e05c.netlify.app/",
-    "client_site":"https://github.com/Fahad98723/triangle-learning-center",
-    "details" : [
-        {   "technologies" : [
-            "React", "Firebase" , "HTML5", "React Router", "CSS3"
-            ]
-        },
-        {"desc" : "In this project, you can see details about the teachers. We used some course for online teaching. I will add enroll from for course enrolling , Now I'm working on it you will get update soon about this . I'm planning too add so many features on this ."},
-        {"images" : [
-            "https://i.ibb.co/7k8fz79/Triangle-Learnin.png?fbclid=IwAR2H3n_AwFofHDZyfWyngnx9ZQ47W8EsGkoRADmvmCXlefRpYuBOwEXv7NY",
-            "https://i.ibb.co/vhwLpNX/Triangle-Learnin-1.png?fbclid=IwAR2NaPDQMlrfOV4UEYI4NlqEZF4-bdfxvu0xt--VhFZRaGFCjhrG9lp5ZIs",
-            "https://i.ibb.co/n6XdQTZ/Triangle-Learnin-2.png?fbclid=IwAR2kELMoQI3buvTbL-AGzIwGLTZHHMTxheC7Q2bZAFP4x11ZJC7JMSajb4E",
-            "https://i.ibb.co/jWQjZ2p/Triangle-Learnin-3.png?fbclid=IwAR3gwG4_AN7FuI53dTTdMPDn1bEsOjH0ebgEvYeBzgHzhTU_JKyQhNrD-dQ"
         ]}
     ]
  }

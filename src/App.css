@@ -10,7 +10,7 @@
   /* font-family: 'Comforter Brush', cursive;  heading */
   /* font-family: 'Irish Grover', cursive; */
   font-family: 'Poppins', sans-serif;
-  background: #1a1a1d;
+  background: #2f2f36;
   color: #DFDFDF;
   width: 100%;
   overflow: hidden;
@@ -23,7 +23,8 @@
   font-family: 'Poppins',
    sans-serif ;
    /* color :#007BEC; */
-   color :#00bcd4;
+   /* color :#00bcd4; */
+   color:antiquewhite;
     font-size : 40px
 }
 

@@ -66,7 +66,7 @@ const MyProject = () => {
                              <div  className='project p-3 ' style={{ boxShadow: '#909090 0px 5px 10px' , borderRadius:'10px', overflow: 'hidden'}}>
                              <img className='img-fluid mb-4 project-image' src={project.img} alt="" /> 
                              <div>
-                             <h3 className='title fw-bold'>{project.name}</h3>
+                             <h4 className='title fw-bold'>{project.name}</h4>
                           <p>{project.about}</p>
                           <a target='blank' href={project.live} className="m-1 fs-6 btn fw-semi-bold me-3"> <i className="me-2 fs-5 fab fa-firefox-browser"></i>Live Site</a>
                           <Link to={`/project/${project.id}`} className="m-1 fs-6 btn fw-semi-bold  "> <i className="me-2 fs-5 fas fa-info-circle"></i>Details</Link>
