@@ -7,7 +7,7 @@ const Card = ({projects, setModalShow}) => {
         <div>
             <Row className=''>
                 {
-                    projects.map(project => <div id='card' className='p-3 my-2'>
+                    projects.map(project => <div id='card' className='p-3 my-2' data-aos="fade-right">
                     <Row className='align-items-center'>
                     <Col lg='8'>
                     <div class="postcard__text">
