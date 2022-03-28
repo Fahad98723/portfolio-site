@@ -19,3 +19,7 @@
     background-image: linear-gradient(to right, #7a7a7a, #6c6c6c, #5e5d5e, #514f50, #444242);
     border-radius: 20px;
 }
+
+.modal-80w{
+    width: 80%!important;
+}

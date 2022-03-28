@@ -25,7 +25,7 @@ const ProjectCarousel = ({projectDetails}) => {
   "disableOnInteraction": false
 }} pagination={true} navigation={true} className="mySwiper">
   {
-    projectDetails?.details[2]?.images.map(img => <SwiperSlide><img style={{height:'400px'}} src={img} alt='' /></SwiperSlide>)
+    projectDetails?.images.map(img => <SwiperSlide><img style={{height:'500px'}} src={img} alt='' /></SwiperSlide>)
   }
   {/* <SwiperSlide><img src="https://swiperjs.com/demos/images/nature-2.jpg" /></SwiperSlide><SwiperSlide><img src="https://swiperjs.com/demos/images/nature-3.jpg" /></SwiperSlide><SwiperSlide><img src="https://swiperjs.com/demos/images/nature-4.jpg" /></SwiperSlide><SwiperSlide><img src="https://swiperjs.com/demos/images/nature-5.jpg" /></SwiperSlide><SwiperSlide><img src="https://swiperjs.com/demos/images/nature-6.jpg" /></SwiperSlide> */}
   </Swiper>

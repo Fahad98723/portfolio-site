@@ -27,9 +27,9 @@ const Project = () => {
                 <Col data-aos="fade-left" lg='6'>
                     <h1 className='title' style={{color : '#00bcd4'}}>{projectDetails?.name}</h1>
                     <hr className='w-75' style={{height:'5px'}} />
-                    <p>{projectDetails?.details[1]?.desc}</p>
+                    <p>{projectDetails?.desc}</p>
                     {
-                        projectDetails?.details[0]?.technologies?.map(t => <button style={{background : '#007BEC', fontSize:'14px'}} className='m-1 btn fw-bold '>{t}</button>)
+                        projectDetails?.technologies?.map(t => <button style={{background : '#007BEC', fontSize:'14px'}} className='m-1 btn fw-bold '>{t}</button>)
                     }
                     <div className="details-button mt-3">
                         <a target='blank' href={projectDetails?.live} className="m-1 fs-5 btn"><i className="me-2 fs-4 fab fa-firefox-browser"></i>Live Site</a>

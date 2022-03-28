@@ -6,14 +6,13 @@
     "live":"https://pro-player.vercel.app/",
     "client_site":"https://github.com/Fahad98723/Tiangle-ecommerce-shop",
     "server_site":"https://github.com/Fahad98723/triangle-ecommerce-server-site",
-    "details" : [
-        {
+ 
             "technologies" : [
                 "React", "Firebase" , "Material UI", "Redux", "HTML5", "CSS3", "Typescript", "Strem Chat" , "MongoDB", "React Hook Form","React Router", "Express"
-            ]
-        },
-        {"desc" : "In this project, you can upload gaming tips blogs with video if you want. But before you upload anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can upload any blog with video . You can like any blog, follow any blogger and comment on any blogs. You can donate any user by card. Your blogs and content you can see your uploaded blogs. In Following you can see you following users all blog.  All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is Material UI. It's made by Material ui and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form."},
-        {"images" : [
+            ],
+
+        "desc" : "In this project, you can upload gaming tips blogs with video if you want. But before you upload anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can upload any blog with video . You can like any blog, follow any blogger and comment on any blogs. You can donate any user by card. Your blogs and content you can see your uploaded blogs. In Following you can see you following users all blog.  All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is Material UI. It's made by Material ui and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form.",
+        "images" : [
             "https://i.ibb.co/NV9yHCR/Screenshot-17.png",
             "https://i.ibb.co/tZMLCG0/Screenshot-18.png",
             "https://i.ibb.co/KDMNR8q/Screenshot-19.png",
@@ -23,8 +22,8 @@
             "https://i.ibb.co/DrQVWjJ/Screenshot-23.png",
             "https://i.ibb.co/rkH3F56/Screenshot-24.png",
             "https://i.ibb.co/prpVZqg/Screenshot-25.png"
-        ]}
-    ]
+        ]
+    
  },
 {
     "name":"Triangle E-Commerce",
@@ -34,22 +33,20 @@
     "live":"https://triangle-ecommerce-shop.web.app/",
     "client_site":"https://github.com/Fahad98723/Tiangle-ecommerce-shop",
     "server_site":"https://github.com/Fahad98723/triangle-ecommerce-server-site",
-    "details" : [
-        {
+
             "technologies" : [
                 "React", "Firebase" , "Bootstrap", "Material UI", "Redux", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
-            ]
-        },
-        {"desc" : "In this project, you can purchase any type of cloth you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. For purchasing a cloth, you have to payment via card. In your dashboard You can see your purchase or booking list in my orders. If you become an admin, you will see other things in your dashboard. Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap and material ui. It's made by react-bootstrap, material ui and raw CSS. i also used MongoDB for database saving. We used React Hook form for the form, and the for payment system i used stripe ."},
-        {"images" : [
+            ],
+
+        "desc" : "In this project, you can purchase any type of cloth you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. For purchasing a cloth, you have to payment via card. In your dashboard You can see your purchase or booking list in my orders. If you become an admin, you will see other things in your dashboard. Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap and material ui. It's made by react-bootstrap, material ui and raw CSS. i also used MongoDB for database saving. We used React Hook form for the form, and the for payment system i used stripe .",
+        "images" : [
             "https://i.ibb.co/Yy978LL/Screenshot-497.png",
             "https://i.ibb.co/prNMFV1/Screenshot-498.png",
             "https://i.ibb.co/LhPkXFw/Screenshot-499.png",
             "https://i.ibb.co/Qc3d2gX/Screenshot-500.png",
             "https://i.ibb.co/CzsxFCF/Screenshot-501.png",
             "https://i.ibb.co/LCG1tZ1/Screenshot-496.png"
-        ]}
-    ]
+        ]
  },
 {
     "name":"Travel Guro",
@@ -59,21 +56,18 @@
     "live":"https://travel-lif.web.app/",
     "client_site":"https://github.com/Fahad98723/travel-guro-client",
     "server_site":"https://github.com/Fahad98723/travel-guro-server",
-    "details" : [
-        {
+
             "technologies" : [
-                "React", "Firebase" , "Material UI", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
-            ]
-        },
-        {"desc" : "In this project, you can upload travel blogs you want. But before you can upload or read blog on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can edit the project which you have been uploaded . All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form."},
-        {"images" : [
+                "React", "Firebase" , "Material UI", "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express" ],
+        "desc" : "In this project, you can upload travel blogs you want. But before you can upload or read blog on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. You can edit the project which you have been uploaded . All Blogs , Make Admin, Pending Blogs Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form.",
+        "images" : [
             "https://i.ibb.co/WkKkgK4/Screenshot-503.png",
             "https://i.ibb.co/j3rkbzz/Screenshot-504.png",
             "https://i.ibb.co/T47nWT1/Screenshot-505.png",
             "https://i.ibb.co/r7ZqVKZ/Screenshot-506.png",
             "https://i.ibb.co/5T8VBQ1/Screenshot-508.png"
-        ]}
-    ]
+        ]
+
  },
 {
     "name":"Triangle Bike Shop",
@@ -83,22 +77,20 @@
     "live":"https://triangle-bike-shop.web.app/",
     "client_site":"https://github.com/Fahad98723/bike-shop-client-site",
     "server_site":"https://github.com/Fahad98723/bike-shop-server-site",
-    "details" : [
-        {
+
             "technologies" : [
                 "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
-            ]
-        },
-        {"desc" : "In this project, you can purchase any type of bike you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. For purchasing a bike, you have to set your address, zip code, and phone number on the purchase form. In your dashboard You can see your purchase or booking list in my orders. If you become an admin, you will see other things in your dashboard. Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form, and the swiper slider for the slider in the testimonial section."},
-        {"images" : [
+            ],
+        "desc" : "In this project, you can purchase any type of bike you want. But before you can purchase anything on the site, first you have to log in via Google, or if you already have an account, then sign in with Gmail and pass. If you are new to the site, you can create an account on our site. For purchasing a bike, you have to set your address, zip code, and phone number on the purchase form. In your dashboard You can see your purchase or booking list in my orders. If you become an admin, you will see other things in your dashboard. Those things are only seen by admin. And you can only see the functionality if you become an admin.The framework which has been used on this site is react-bootstrap. It's made by react-bootstrap and raw CSS. We also used MongoDB for database saving. We used React Hook form for the form, and the swiper slider for the slider in the testimonial section.",
+        "images" : [
             "https://i.ibb.co/BrTnNSb/resized-image-Promo.jpg?fbclid=IwAR2EcgpIUshNl-qv1YJhAWZWhlfd5e3mIpo2kCNaRcZl9C8UftWiODbCjOQ",
             "https://i.ibb.co/YQ94zMJ/resized-image-Promo-1.jpg?fbclid=IwAR33lIFyoAC51WYUPRnzMvZtfTsxsOGdqWfKtiv6vQUo4V_q6KiZ4K1Zdg0",
             "https://i.ibb.co/sRxCYj1/resized-image-Promo-2.jpg?fbclid=IwAR2tOSXVgXc52cHvazfBn-iTpTk_4DcX159z8Tp1D6Fq1vZGMN0SKDj8xWk",
             "https://i.ibb.co/2ZsQrrh/resized-image-Promo-5.jpg?fbclid=IwAR3I0H9JsexBe5ijxWMTHsg5m1ilokaDeRU5G-zspcNpOW2PjrzFUdw_X3E",
             "https://i.ibb.co/fY7W8TX/resized-image-Promo-4.jpg?fbclid=IwAR3U1onmj4ev45lMPA1jLjYY60tCEQE6NnVoBA4L1p0s1A_Oo-firexzCP4",
             "https://i.ibb.co/9rM97tV/resized-image-Promo-3.jpg?fbclid=IwAR3idzDsVhiEJidoka2H5MGX-OfUZEPs1KN0wNB-9QSCo5_sos0Fm78k2tU"
-        ]}
-    ]
+        ]
+    
  },
  {
     "name":"Triangle Travel",
@@ -109,20 +101,19 @@
     "live":"https://travel-booking-site.web.app/",
     "client_site":"https://github.com/Fahad98723/triangle-travel-client-site",
     "server_site":"https://github.com/Fahad98723/triangle-travel-server-site",
-    "details" : [
-        {
+
             "technologies" : [
                 "React", "Firebase" , "HTML5", "CSS3", "MongoDB", "React Hook Form","React Router", "Express"
             ]
-        },
-        {"desc" : "In this project, you can book some hiking travel destinations. But before you booking, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."}
+    ,
+        "desc" : "In this project, you can book some hiking travel destinations. But before you booking, you have to log into the site with Google or Facebook. For booking, you have to set your address and phone number on the booking form. You can see your booking list on My Booking Pages.The framework which has been used on this site is react-bootstrap. It's made with react-bootstrap and raw CSS. We also used MongoDB for database saving. And last, we used the react hook form."
         ,
-        {"images" : [
+        "images" : [
             "https://i.ibb.co/xft0Hj9/Triangle-Travel-1.png?fbclid=IwAR1PualoIu0G8lJhQi3AkoLNrVx2T_XioRSBzGCClGGAHczXR7y0jok45SE",
             "https://i.ibb.co/8sgD2pV/Triangle-Travel-6.png?fbclid=IwAR3uIcl2oe4fqpZlNHPD9h-QgHC19tsIyJm3EUhP9i7yNPaeteaSkD6a4Dk",
             "https://i.ibb.co/L6V8xcL/Triangle-Travel-4.png",
             "https://i.ibb.co/Kwbwpw0/Triangle-Travel-5.png?fbclid=IwAR2Gkzg4MZGXWfoKPTY4cIYqs572EKCpZjmsI7BHin52eDutbaIea_ay0Cw"
-        ]}
-    ]
+        ]
+    
   }
 ]
