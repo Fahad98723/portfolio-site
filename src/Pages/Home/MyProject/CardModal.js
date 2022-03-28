@@ -14,7 +14,7 @@ const style = {
   transform: 'translate(-50%, -50%)',
   bgcolor: 'background.paper',
   p: 4,
-  borderRadius:'5px',
+  borderRadius:'20px',
   backgroundColor:"#2f2f36",
   color:'white',
   overflow:'hidden'
