@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
+import { useContext } from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { useParams } from 'react-router';
+import { MouseContext } from '../../Context/mouse-context';
 import ProjectCarousel from '../ProjectCarousel/ProjectCarousel';
 import NavBar from '../Shared/NavBar/NavBar';
 
@@ -14,6 +16,10 @@ const Project = () => {
     },[])
     const projectDetails = project.find(p => p.id === id)
     console.log(project);
+
+    const { cursorType, cursorChangeHandler } = useContext(MouseContext);
+
+
     return (
         <>
         <Container className='py-5' style={{height:'90vh'}}>
@@ -32,8 +38,10 @@ const Project = () => {
                         projectDetails?.technologies?.map(t => <button style={{background : '#007BEC', fontSize:'14px'}} className='m-1 btn fw-bold '>{t}</button>)
                     }
                     <div className="details-button mt-3">
-                        <a target='blank' href={projectDetails?.live} className="m-1 fs-5 btn"><i className="me-2 fs-4 fab fa-firefox-browser"></i>Live Site</a>
-                        <a target='blank' href={projectDetails?.client_site} className="m-1 fs-5 btn fw-semi-bold"><i className=" me-2 fs-4 fab fa-github"></i>Client Code</a>
+                        <a onMouseEnter={() => cursorChangeHandler("hovered")}
+                onMouseLeave={() => cursorChangeHandler("")} target='blank' href={projectDetails?.live} className="m-1 fs-5 btn"><i className="me-2 fs-4 fab fa-firefox-browser"></i>Live Site</a>
+                        <a onMouseEnter={() => cursorChangeHandler("hovered")}
+                onMouseLeave={() => cursorChangeHandler("")} target='blank' href={projectDetails?.client_site} className="m-1 fs-5 btn fw-semi-bold"><i className=" me-2 fs-4 fab fa-github"></i>Client Code</a>
                         {
                             projectDetails?.server_site ? <a  target='blank' href ={projectDetails?.server_site}className="m-1 fs-5 btn fw-semi-bold"><i className=" me-2 fs-4 fab fa-github"></i>Server Code</a> : ''
                         }

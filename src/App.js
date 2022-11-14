@@ -9,6 +9,7 @@ import "aos/dist/aos.css";
 import Blog from './Pages/Blog/Blog';
 import NavBar from './Pages/Shared/NavBar/NavBar';
 import Footer from './Pages/Shared/Footer/Footer'
+import DotRing from './Components/DotRing/DotRing';
 AOS.init({
   duration:"2000",
   delay:"50",
@@ -19,6 +20,7 @@ function App() {
     <div className="body">
       <BrowserRouter>
       <NavBar/>
+      <DotRing/>
         <Routes>
           <Route path='/' element={<Home></Home>}></Route>
           <Route path='/home' element={<Home></Home>}></Route>
